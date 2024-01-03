@@ -6,7 +6,7 @@
 
 **`Junior Programmer`**
 <div id="download button" align="right">
-  <a href = "https://mdtopdf.up.railway.app/convertPdf?url=https://github.com/hrsh1302/hrsh1302/blob/main/README.md">
+  <a href = "https://github.com/hrsh1302/hrsh1302/blob/main/Harash_Banga_Resume.pdf">
     <img src ="https://img.shields.io/badge/Download%20AS%20pdf-EF3939?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24">
   </a>
 </div>

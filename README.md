@@ -23,6 +23,39 @@
     </a>
   </div>
 </div>
+
+```java
+
+class Harash {
+    protected String fName;
+    protected String lName;
+    protected boolean likeCoding;
+    protected double GPA;
+    protected ArrayList<String> languages;
+
+    public Harash() {
+        fName = "Harash";
+        lName = "Banga";
+        likeCoding = true;
+        GPA = 4.0;
+        languages = new ArrayList<>(Arrays.asList("Java", "JavaEE", "JavaFX", "C++", "Git", "HTML/CSS", "Javascript", "Python"));
+    }
+
+    public String getSchool() {
+        return "Gwinnett Technical College";
+    }
+
+    public boolean readyForEmployment() {
+        return true;
+    }
+
+    public String toString() {
+        return "Hello! My name is " + fName + ", " + lName + ". Welcome to my GitHub page!";
+    }
+}
+
+
+```
 <br>
 
 ---

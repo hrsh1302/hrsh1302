@@ -6,7 +6,7 @@
 
 **`Junior Programmer`**
 <div id="download button" align="right">
-  <a href = "https://github.com/hrsh1302/hrsh1302/blob/main/Harash_Banga_Resume.pdf">
+  <a href = "https://github.com/hrsh1302/hrsh1302/blob/main/resume.pdf">
     <img src ="https://img.shields.io/badge/Download%20AS%20pdf-EF3939?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24">
   </a>
 </div>
